@@ -1,0 +1,75 @@
+form{
+    background-color: black;
+    color: aliceblue;
+    display: inline-block;
+    padding: 50px  ;
+    margin-left: 34%;
+    margin-top: 10%;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 7px 7px 10px 10px rgba(198, 83, 150, 0.651);
+}
+h1{
+    color: aquamarine;
+}
+button
+{
+    background-color:rgb(10, 214, 214);
+    border-radius: 35px;
+    border-style:solid;
+    border-color: yellowgreen;
+    cursor: pointer;
+    transition: background-color 1.5s;
+    
+}
+button:hover{
+    background-color: rgb(59,37,67);
+    color: azure;
+}
+
+#textbox
+{
+    padding: 3px;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    transition: background-color 3s;
+}
+#textbox:hover{
+    background-color: rgb(93, 227, 205);
+    color:rgb(245, 17, 17);
+}
+
+#finalvalue
+{
+    background-color:rgb(93, 227, 205);
+    color:rgb(245, 17, 17);
+    border-radius: 100px;
+    border-style: solid;
+    border-color: blanchedalmond;
+    padding: 5px;
+    display: inline-block;
+    
+    
+}
+
+input[type="radio"]{
+    accent-color: rgb(94, 230, 189);
+}
+body{
+    background-color: rgb(10, 214, 214);
+}
+.new{
+    color: azure;
+    cursor: pointer;
+}
+.new:hover{
+    color: rgb(94, 230, 189);
+}
+.cursor{
+    cursor: pointer;
+}
+.emoji{
+    padding-left: 72%;
+    font-size: 100px;
+    
+}
